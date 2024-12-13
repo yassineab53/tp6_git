@@ -1,1 +1,2 @@
-print('Bonjour le monde')
+def greet(name):
+    print('Bonjour, Yassine')
